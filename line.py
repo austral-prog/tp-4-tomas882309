@@ -7,7 +7,7 @@ def line():
     B = float (B)
     X1 = float (X1)
     X2 = float (X2)
-
+    
     print (f"El coeficiente A de su ecuación de la recta es: {A}")
     print (f"El coeficiente B de su ecuación de la recta es: {B}")
     print (f"El coeficiente X1 de su ecuación de la recta es: {X1}")
